@@ -2,7 +2,7 @@
 
 Application web moderne de gestion de comptes bancaires développée avec React et GraphQL.
 
-## 📋 Fonctionnalités
+##  Fonctionnalités
 
 - **Affichage des comptes** : Visualisation de tous les comptes bancaires avec leur solde et type
 - **Création de comptes** : Formulaire pour créer de nouveaux comptes (Courant ou Épargne)
@@ -10,14 +10,14 @@ Application web moderne de gestion de comptes bancaires développée avec React 
 - **GraphQL API** : Communication en temps réel avec le serveur GraphQL
 - **Actualisation en direct** : Mise à jour automatique de la liste après création
 
-## 🛠️ Technologies utilisées
+##  Technologies utilisées
 
 - **Frontend** : React 19.2.0
 - **API** : Apollo Client & GraphQL
 - **Styling** : Tailwind CSS
 - **Backend** : Node.js (serveur mock GraphQL)
 
-## 📦 Installation
+##  Installation
 
 ### Prérequis
 
@@ -37,7 +37,7 @@ Application web moderne de gestion de comptes bancaires développée avec React 
    npm install --legacy-peer-deps
    ```
 
-## 🚀 Démarrage
+##  Démarrage
 
 Pour lancer l'application, vous devez démarrer le serveur backend et le frontend.
 
@@ -59,13 +59,13 @@ npm start
 
 L'application s'ouvre automatiquement dans votre navigateur sur `http://localhost:3000`
 
-## 📱 Utilisation
+##  Utilisation
 
 1. **Créer un compte** : Remplissez le formulaire avec le solde initial et sélectionnez le type de compte
 2. **Voir les comptes** : Tous les comptes s'affichent sous forme de cartes colorées
 3. **Actualiser** : Cliquez sur le bouton de rafraîchissement pour mettre à jour la liste
 
-## 📂 Structure du projet
+##  Structure du projet
 
 ```
 tp16/
@@ -83,11 +83,9 @@ tp16/
 └── package.json
 ```
 
-## 🎨 Types de comptes
+##  Types de comptes
 
 - **COURANT** : Compte courant (couleur indigo)
 - **EPARGNE** : Compte épargne (couleur violette)
 
-## 📄 Licence
 
-Ce projet est développé à des fins éducatives.
